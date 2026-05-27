@@ -1,0 +1,2 @@
+        Esta funcionalidad fue creada en la rama
+        feature/menu-principal utilizando GitFlow.
