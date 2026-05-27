@@ -1,2 +1,3 @@
         Esta funcionalidad fue creada en la rama
         feature/menu-principal utilizando GitFlow.
+    Esta funcionalidad pertenece a la rama feature/menu-principal.
