@@ -1,0 +1,8 @@
+Se crea la rama 
+release/v1.0 para preparar 
+la versión final del proyecto.
+
+La rama release permite realizar 
+ajustes finales y verificaciones 
+antes de integrar la versión en 
+la rama principal (main).
